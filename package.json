@@ -1,0 +1,16 @@
+{
+  "name": "nexus-rules-bot",
+  "version": "1.0.0",
+  "description": "Nexus RolePlay Rules Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^17.3.1"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
